@@ -1,0 +1,46 @@
+# Build artifacts
+*.pdf
+*.pptx
+*.xdv
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.log
+*.fdb_latexmk
+*.snm
+*.nav
+*.synctex.gz
+*.vrb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# macOS
+.DS_Store
+.Trashes
+
+# IDE
+.vscode/.history
+*.swp
+*.swo
+
+# Temporary
+/tmp/
