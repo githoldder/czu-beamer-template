@@ -1,6 +1,6 @@
-# SDU Beamer 讲座演示模板
+# CZU Beamer 讲座演示模板
 
-基于 LaTeX Beamer 的山东大学演示文稿模板，支持中文排版，可编译为 PDF 或通过脚本转换为 PPTX 格式。
+基于 LaTeX Beamer 的常州工学院演示文稿模板，支持中文排版，可编译为 PDF 或通过脚本转换为 PPTX 格式。
 
 ## 📁 仓库结构
 
